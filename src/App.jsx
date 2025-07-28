@@ -1,5 +1,6 @@
 // import Task1 from "./Tasks/Task1";
-import ArrayMap from "./Tasks/ArrayMap";
+// import ArrayMap from "./Tasks/ArrayMap";
+import ClockPrj from "./Tasks/ClockPrj";
 function App() {
   return (
     <div>
@@ -8,7 +9,8 @@ function App() {
       <br></br>
 
       {/* <Task1 /> */}
-      <ArrayMap />
+      {/* <ArrayMap /> */}
+      < ClockPrj />
     </div>
   );
 }
