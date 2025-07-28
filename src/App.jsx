@@ -1,4 +1,5 @@
-import Task1 from "./Tasks/Task1"
+// import Task1 from "./Tasks/Task1";
+import ArrayMap from "./Tasks/ArrayMap";
 function App() {
   return (
     <div>
@@ -6,7 +7,8 @@ function App() {
       <hr></hr>
       <br></br>
 
-      <Task1 />
+      {/* <Task1 /> */}
+      <ArrayMap />
     </div>
   );
 }
